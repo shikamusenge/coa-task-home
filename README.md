@@ -6,7 +6,7 @@ This repository hosts a collection of responsive web design challenges. It's des
 
 - `/challenge`
   - `arrayMap.js`
-  - `stringTransform.js`
+  - `stringTransform.js` add
 - `/js`
   - `app.js`
 - `/style`
@@ -50,3 +50,7 @@ Open a Pull Request
 License
 This project is licensed under the MIT License - see the
 ```
+
+## License
+
+This project is open-source and free to use. It is licensed under the MIT License, which means you can modify, distribute, and use the project even for commercial purposes, all without asking permission.
